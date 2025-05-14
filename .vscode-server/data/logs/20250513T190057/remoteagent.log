@@ -1,0 +1,18 @@
+2025-05-13 19:00:57.057 [info] 
+
+
+
+
+2025-05-13 19:00:57.064 [info] Extension host agent started.
+2025-05-13 19:00:57.085 [info] Started initializing default profile extensions in extensions installation folder. file:///home/os90/.vscode-server/extensions
+2025-05-13 19:00:57.102 [info] ComputeTargetPlatform: linux-x64
+2025-05-13 19:00:57.106 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/os90/.vscode-server/extensions
+2025-05-13 19:00:57.289 [info] [127.0.0.1][4c272321][ManagementConnection] New connection established.
+2025-05-13 19:00:57.467 [info] [127.0.0.1][6f2da04d][ExtensionHostConnection] New connection established.
+2025-05-13 19:00:57.471 [info] [127.0.0.1][6f2da04d][ExtensionHostConnection] <600> Launched Extension Host Process.
+2025-05-13 19:00:58.893 [info] ComputeTargetPlatform: linux-x64
+2025-05-13 19:07:52.381 [info] [127.0.0.1][4c272321][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-05-13 19:07:52.410 [info] [127.0.0.1][6f2da04d][ExtensionHostConnection] <600> Extension Host Process exited with code: 0, signal: null.
+2025-05-13 19:07:53.610 [info] [127.0.0.1][70b238db][ManagementConnection] New connection established.
+2025-05-13 19:07:53.869 [info] [127.0.0.1][e4dcc5e2][ExtensionHostConnection] New connection established.
+2025-05-13 19:07:53.875 [info] [127.0.0.1][e4dcc5e2][ExtensionHostConnection] <1921> Launched Extension Host Process.

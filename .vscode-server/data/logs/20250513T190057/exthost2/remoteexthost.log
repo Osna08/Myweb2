@@ -1,0 +1,21 @@
+2025-05-13 19:07:54.296 [info] Extension host with pid 1921 started
+2025-05-13 19:07:54.297 [info] Lock '/home/os90/.vscode-server/data/User/workspaceStorage/7d5c0e8174046028752f6507fac3700c/vscode.lock': Lock acquired.
+2025-05-13 19:07:54.338 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-13 19:07:54.339 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-05-13 19:07:54.339 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-13 19:07:54.339 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-13 19:07:54.339 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-13 19:07:54.860 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-13 19:07:54.867 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-13 19:07:54.867 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-13 19:07:54.956 [info] Eager extensions activated
+2025-05-13 19:07:54.956 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-13 19:07:54.957 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-13 19:10:25.933 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2025-05-13 19:53:09.870 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1596
+2025-05-13 19:53:10.060 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1596
+2025-05-13 20:05:50.050 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1599
+2025-05-13 20:05:55.074 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1598
+2025-05-13 20:06:00.098 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1598
+2025-05-13 20:06:05.119 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1598
+2025-05-13 20:06:10.437 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1600
